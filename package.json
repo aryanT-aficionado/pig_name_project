@@ -1,0 +1,21 @@
+{
+  "name": "pig_game_project",
+  "version": "1.0.0",
+  "description": "pig game as a portfolio project",
+  "default": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "keywords": [
+    "pig",
+    "game",
+    "with",
+    "dice"
+  ],
+  "author": "Aryan Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.1"
+  }
+}
